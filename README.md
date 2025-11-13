@@ -38,7 +38,7 @@ This projects takes a dataset of information on superhero movies from various ci
 ```bash
 Superhero-Movies/
 ├── Superhero-Movies.ipynb        # Main analysis notebook
-├── superhero_movies_dataset.csv  # Dataset of superhero movies information
+├── superhero_movies_dataset.xls  # Dataset of superhero movies information
 ├── requirements.txt          # Python dependencies
 └── README.md                 # Project documentation
 ```
