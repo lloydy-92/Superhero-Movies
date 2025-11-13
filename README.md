@@ -17,6 +17,7 @@ This projects takes a dataset of information on superhero movies from various ci
 | Data manipulation | `pandas`, `re` |
 | Data visualization | `matplotlib`, `seaborn`, `math` |
 | Statistical testing | `scipy.stats (ttest_ind)` |
+| Environment | Jupyter Notebook (`%matplotlib inline`) |
 
 ## Installation
 1. **Clone this repository**
