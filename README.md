@@ -65,3 +65,5 @@ Contributions, suggestions, and improvements are welcome and encouraged! If you 
 - Alberto Lawant on Kaggle for providing the dataset (*https://www.kaggle.com/datasets/aslawant/superhero-movies-dataset*)
 - Codecademy Data Science Path for providing structured guidance on this project.
 - The open-source community for libraries like ```pandas```, ```matplotlib```, and ```seaborn```.
+---------------------------------------------------------------------------------------------------------------------------
+"*Heroes may be born in stories, but their power is proven in the numbers.*"
