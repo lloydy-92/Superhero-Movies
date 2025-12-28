@@ -41,6 +41,7 @@ Superhero-Movies/
 ├── Superhero-Movies.ipynb        # Main analysis notebook
 ├── superhero_movies_dataset.xls  # Dataset of superhero movies information
 ├── requirements.txt          # Python dependencies
+├── analysis.md               # Written analysis file
 └── README.md                 # Project documentation
 ```
 
